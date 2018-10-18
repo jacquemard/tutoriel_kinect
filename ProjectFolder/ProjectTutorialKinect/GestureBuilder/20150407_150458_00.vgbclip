@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2015-04-07</Date>
+			<Time>17:28:17.6932876+02:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>20150407_150458_00.xef</Clip>
+			<StartFrame>567</StartFrame>
+			<EndFrame>885</EndFrame>
+			<ID>0a1d98de-d81f-49e2-b83c-b7a4fb88d0e9</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>790</CurrentFrameStart>
+			<CurrentFrameEnd>791</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="645">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="646">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="647">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="648">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="649">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="650">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="651">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="652">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="653">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="654">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="655">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="656">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="657">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="658">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="659">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="660">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="661">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="662">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="663">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="664">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="665">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="666">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="667">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="668">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="669">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="670">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="671">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="672">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="673">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="674">
+				<Items xsi:type="BoolAttribute" Name="GoRight2_Right" Value="true" />
+			</Items>
+			<Items Frame="675">
+				<Items xsi:type="BoolAttribute" Name="GoRight2_Right" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="GoRight2" Value="true" />
+			</Items>
+			<Items Frame="676">
+				<Items xsi:type="BoolAttribute" Name="GoRight2_Right" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="GoRight2" Value="true" />
+			</Items>
+			<Items Frame="677">
+				<Items xsi:type="BoolAttribute" Name="GoRight2_Right" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="GoRight2" Value="true" />
+			</Items>
+			<Items Frame="678">
+				<Items xsi:type="BoolAttribute" Name="GoRight2_Right" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="GoRight2" Value="true" />
+			</Items>
+			<Items Frame="679">
+				<Items xsi:type="BoolAttribute" Name="GoRight2_Right" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="GoRight2" Value="true" />
+			</Items>
+			<Items Frame="680">
+				<Items xsi:type="BoolAttribute" Name="GoRight2_Right" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="GoRight2" Value="true" />
+			</Items>
+			<Items Frame="681">
+				<Items xsi:type="BoolAttribute" Name="GoRight2_Right" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="GoRight2" Value="true" />
+			</Items>
+			<Items Frame="758">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="759">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="760">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="761">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="762">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="763">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="764">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="765">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="766">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="767">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="768">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="769">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="770">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="771">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="772">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="773">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="774">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="775">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="776">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="777">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="778">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="779">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="780">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="781">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="782">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="783">
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+			</Items>
+			<Items Frame="784">
+				<Items xsi:type="BoolAttribute" Name="GoRight2_Right" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="GoRight1" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="GoRight2" Value="true" />
+			</Items>
+			<Items Frame="785">
+				<Items xsi:type="BoolAttribute" Name="GoRight2_Right" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="GoRight2" Value="true" />
+			</Items>
+			<Items Frame="786">
+				<Items xsi:type="BoolAttribute" Name="GoRight2_Right" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="GoRight2" Value="true" />
+			</Items>
+			<Items Frame="787">
+				<Items xsi:type="BoolAttribute" Name="GoRight2_Right" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="GoRight2" Value="true" />
+			</Items>
+			<Items Frame="788">
+				<Items xsi:type="BoolAttribute" Name="GoRight2_Right" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="GoRight2" Value="true" />
+			</Items>
+			<Items Frame="789">
+				<Items xsi:type="BoolAttribute" Name="GoRight2_Right" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="GoRight2" Value="true" />
+			</Items>
+			<Items Frame="790">
+				<Items xsi:type="BoolAttribute" Name="GoRight2_Right" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="GoRight2" Value="true" />
+			</Items>
+			<Items Frame="791">
+				<Items xsi:type="BoolAttribute" Name="GoRight2_Right" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="GoRight2" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

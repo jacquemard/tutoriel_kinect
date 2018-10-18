@@ -1,0 +1,23 @@
+﻿La génération a démarré 08.05.2015 09:12:26.
+     1>Projet "C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\SpeechBasics-D2D\SpeechBasics-D2D.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt KinectAudioStream.cpp TurtleController.cpp SpeechBasics.cpp
+         SpeechBasics.cpp
+     1>c:\program files (x86)\windows kits\8.1\include\um\sphelper.h(1319): warning C4996: 'GetVersionExW': a été déclaré déconseillé
+                 c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(442) : voir la déclaration de 'GetVersionExW'
+         TurtleController.cpp
+         KinectAudioStream.cpp
+         Génération de code en cours...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Win32\Debug\SpeechBasics.res" SpeechBasics.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\SpeechBasics-D2D\Win32\Debug\SpeechBasics-D2D.exe" /INCREMENTAL /NOLOGO amstrmid.lib avrt.lib kernel32.lib user32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib Kinect20.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\SpeechBasics-D2D\Win32\Debug\SpeechBasics-D2D.pdb" /SUBSYSTEM:WINDOWS /STACK:"10000000","10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\SpeechBasics-D2D\Win32\Debug\SpeechBasics-D2D.lib" /MACHINE:X86 Win32\Debug\SpeechBasics.res
+         Win32\Debug\KinectAudioStream.obj
+         Win32\Debug\TurtleController.obj
+         Win32\Debug\SpeechBasics.obj
+         SpeechBasics-D2D.vcxproj -> C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\SpeechBasics-D2D\Win32\Debug\SpeechBasics-D2D.exe
+     1>Génération du projet "C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\SpeechBasics-D2D\SpeechBasics-D2D.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:03.17

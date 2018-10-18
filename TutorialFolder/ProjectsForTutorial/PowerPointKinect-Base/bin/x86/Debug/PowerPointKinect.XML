@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PowerPointKinect</name>
+    </assembly>
+    <members>
+        <member name="T:PowerPointKinect.GestureDetector">
+            <summary>
+            Permet de détecter les mouvements d'un corps
+            Les mouvements sont détectés à partir d'une base de données
+            Deux évenements sont disponibles:
+            <list type="bullet">
+                <item>GestureFirstDetected</item>
+                <item>GestureDetected</item>
+            </list>
+            </summary>
+        </member>
+        <member name="M:PowerPointKinect.GestureDetector.#ctor(System.String)">
+            <summary>
+            Constructeur de la classe GestureDetector
+            </summary>
+            <param name="fileName">Le chemin du fichier de base de données (.gbd) dans lequel se trouve les mouvements à détecter</param>
+        </member>
+        <member name="M:PowerPointKinect.GestureDetector.initGesture">
+            <summary>
+            Initialise le système de mouvement
+            </summary>
+        </member>
+        <member name="M:PowerPointKinect.GestureDetector.gestureReader_FrameArrived(System.Object,Microsoft.Kinect.VisualGestureBuilder.VisualGestureBuilderFrameArrivedEventArgs)">
+            <summary>
+            Appelé 30 fois par seconde et gérant les frames de gestures
+            </summary>
+        </member>
+        <member name="M:PowerPointKinect.GestureDetector.Dispose">
+            <summary>
+            Effectue toute les opérations de fermeture
+            </summary>
+        </member>
+        <member name="P:PowerPointKinect.GestureDetector.TrackingID">
+            <summary>
+            ID du corps détecté
+            </summary>
+        </member>
+        <member name="E:PowerPointKinect.GestureDetector.GestureFirstDetected">
+            <summary>
+            Déclenché lorsqu'un geste a été détecté pour la première fois
+            </summary>
+        </member>
+        <member name="E:PowerPointKinect.GestureDetector.GestureDetected">
+            <summary>
+            Déclenché lorsqu'un geste est détecté 
+            </summary>
+        </member>
+        <member name="T:PowerPointKinect.GestureDetector.GestureDetectedEventArgs">
+            <summary>
+            Arguments de l'évenement de détection de mouvement. 
+            </summary>
+        </member>
+        <member name="M:PowerPointKinect.GestureDetector.GestureDetectedEventArgs.#ctor(Microsoft.Kinect.VisualGestureBuilder.Gesture,Microsoft.Kinect.VisualGestureBuilder.DiscreteGestureResult)">
+            <summary>
+            Constructeur de GestureDetectedEventArgs
+            </summary>
+            <param name="gestureDetected">Le mouvement qui a été détecté</param>
+            <param name="gestureResult">Le résultat de cette détection</param>
+        </member>
+        <member name="P:PowerPointKinect.GestureDetector.GestureDetectedEventArgs.Gesture">
+            <summary>
+            Le geste détecté
+            </summary>
+        </member>
+        <member name="P:PowerPointKinect.GestureDetector.GestureDetectedEventArgs.GestureResult">
+            <summary>
+            Le résultat de la détection (indique par exemple quel est la marge d'erreur  
+            </summary>
+        </member>
+        <member name="T:PowerPointKinect.Properties.Resources">
+            <summary>
+              Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+            </summary>
+        </member>
+        <member name="P:PowerPointKinect.Properties.Resources.ResourceManager">
+            <summary>
+              Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+            </summary>
+        </member>
+        <member name="P:PowerPointKinect.Properties.Resources.Culture">
+            <summary>
+              Remplace la propriété CurrentUICulture du thread actuel pour toutes
+              les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+            </summary>
+        </member>
+        <member name="T:PowerPointKinect.KinectPowerPoint">
+            
+        </member>
+        <member name="F:PowerPointKinect.KinectPowerPoint.bodies">
+            <summary>
+            La liste de tout les body détectés
+            </summary>
+        </member>
+        <member name="F:PowerPointKinect.KinectPowerPoint.bodiesDetectors">
+            <summary>
+            La liste de tout les détecteurs de mouvements. Il y en a 6, car kinect peut détecter jusqu'à 6 personnes
+            </summary>
+        </member>
+        <member name="F:PowerPointKinect.KinectPowerPoint.originalPath">
+            <summary>
+            Chemin de l'addin
+            </summary>
+        </member>
+        <member name="M:PowerPointKinect.KinectPowerPoint.KinectPowerPoint_Startup(System.Object,System.EventArgs)">
+            <summary>
+            Méthode déclenchée au démarrage de l'addin
+            </summary>
+            <param name="sender">L'objet appelant</param>
+            <param name="e">Les arguments de l'évenements</param>
+        </member>
+        <member name="M:PowerPointKinect.KinectPowerPoint.initProjectFiles">
+            <summary>
+            Méthode qui permet d'initialiser les fichiers du projet. Initialisation spécial nécessaire pour que le projet fonctionne pour un addin Office
+            </summary>
+        </member>
+        <member name="M:PowerPointKinect.KinectPowerPoint.initKinect">
+            <summary>
+            Méthode qui permet d'initialiser tout ce qui concerne kinect
+            </summary>
+        </member>
+        <member name="M:PowerPointKinect.KinectPowerPoint.KinectPowerPoint_Shutdown(System.Object,System.EventArgs)">
+            <summary>
+            Déclenché lorsque l'addin se ferme
+            </summary>
+            <param name="sender">L'objet appelant</param>
+            <param name="e">Les arguments de l'évenements</param>
+        </member>
+        <member name="M:PowerPointKinect.KinectPowerPoint.InternalStartup">
+            <summary>
+            Méthode requise pour la prise en charge du concepteur - ne modifiez pas
+            le contenu de cette méthode avec l'éditeur de code.
+            </summary>
+        </member>
+        <member name="M:PowerPointKinect.KinectPowerPoint.#ctor(Microsoft.Office.Tools.Factory,System.IServiceProvider)">
+            
+        </member>
+        <member name="M:PowerPointKinect.KinectPowerPoint.Initialize">
+            
+        </member>
+        <member name="M:PowerPointKinect.KinectPowerPoint.FinishInitialization">
+            
+        </member>
+        <member name="M:PowerPointKinect.KinectPowerPoint.InitializeDataBindings">
+            
+        </member>
+        <member name="M:PowerPointKinect.KinectPowerPoint.InitializeCachedData">
+            
+        </member>
+        <member name="M:PowerPointKinect.KinectPowerPoint.InitializeData">
+            
+        </member>
+        <member name="M:PowerPointKinect.KinectPowerPoint.BindToData">
+            
+        </member>
+        <member name="M:PowerPointKinect.KinectPowerPoint.StartCaching(System.String)">
+            
+        </member>
+        <member name="M:PowerPointKinect.KinectPowerPoint.StopCaching(System.String)">
+            
+        </member>
+        <member name="M:PowerPointKinect.KinectPowerPoint.IsCached(System.String)">
+            
+        </member>
+        <member name="M:PowerPointKinect.KinectPowerPoint.BeginInitialization">
+            
+        </member>
+        <member name="M:PowerPointKinect.KinectPowerPoint.EndInitialization">
+            
+        </member>
+        <member name="M:PowerPointKinect.KinectPowerPoint.InitializeControls">
+            
+        </member>
+        <member name="M:PowerPointKinect.KinectPowerPoint.InitializeComponents">
+            
+        </member>
+        <member name="M:PowerPointKinect.KinectPowerPoint.NeedsFill(System.String)">
+            
+        </member>
+        <member name="P:PowerPointKinect.KinectPowerPoint.bodyReader">
+            <summary>
+            Le reader qui permet de récupérer les joueurs présents et détectés par Kinect
+            </summary>
+        </member>
+        <member name="T:PowerPointKinect.Globals">
+            
+        </member>
+        <member name="M:PowerPointKinect.Globals.#ctor">
+            
+        </member>
+        <member name="T:PowerPointKinect.ThisRibbonCollection">
+            
+        </member>
+        <member name="M:PowerPointKinect.ThisRibbonCollection.#ctor(Microsoft.Office.Tools.Ribbon.RibbonFactory)">
+            
+        </member>
+    </members>
+</doc>

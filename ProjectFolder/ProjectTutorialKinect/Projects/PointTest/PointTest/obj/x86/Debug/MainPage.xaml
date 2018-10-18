@@ -1,0 +1,47 @@
+﻿<Page
+    x:Class="PointTest.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PointTest"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:k="using:Microsoft.Kinect.Xaml.Controls"
+    mc:Ignorable="d">
+	<Page.Resources>
+		<Storyboard x:Name="storyChangedColor">
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" Storyboard.TargetName="btnColorChoice">
+				<SplineDoubleKeyFrame KeyTime="0:0:0.3" Value="180" KeySpline="0,0,1,1" />
+                <SplineDoubleKeyFrame KeyTime="0:0:0.6" Value="0" KeySpline="0,0,1,1" />
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+	</Page.Resources>
+
+    
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.3*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>          
+        </Grid.ColumnDefinitions>
+        
+
+        <Grid Grid.Row="0" Grid.Column="0" x:Name="rootKinectGrid" >
+            <Button HorizontalAlignment="Left" x:Name="btnColorChoice" Margin="7,7,0,0" VerticalAlignment="Stretch" Background="{x:Null}" Grid.Row="0" Grid.Column="0" RenderTransformOrigin="0.5,0.5"  >
+            	<Button.RenderTransform>
+            		<CompositeTransform/>
+            	</Button.RenderTransform>
+            </Button>          
+        </Grid>
+        
+        <k:KinectUserViewer HorizontalAlignment="Right" Grid.Row="0" Grid.Column="1" Height="200" Width="200" />
+
+        <Canvas x:Name="CursorMove" Grid.Row="1" Grid.ColumnSpan="2">
+            <Ellipse x:Name="ellipse"  Height="30" Width="30" HorizontalAlignment="Right" Canvas.Left="{Binding posX}" Canvas.Top="{Binding posY}"  Stroke="LightBlue" StrokeThickness="4" Opacity="0.5" />
+        </Canvas>
+
+    </Grid>
+</Page>
+

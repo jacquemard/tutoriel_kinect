@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SolutionFile>
+		<Header>
+			<Date>2015-04-07</Date>
+			<Time>17:24:59.6299616+02:00</Time>
+			<Version>1</Version>
+			<Type>Solution</Type>
+			<ID>f874f2fb-021e-4241-b7d0-f6eef84e650b</ID>
+		</Header>
+		<Solution_Data>
+			<Files>
+				<Name />
+				<Content>
+					<Items>
+						<File>GoRight1.vgbproj</File>
+					</Items>
+					<Items>
+						<File>GoRight1.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>GoRight2.vgbproj</File>
+					</Items>
+					<Items>
+						<File>GoRight2.a.vgbproj</File>
+					</Items>
+				</Content>
+			</Files>
+		</Solution_Data>
+		<UI_State />
+		<Attributes />
+	</SolutionFile>
+</GestureBuilderFile>

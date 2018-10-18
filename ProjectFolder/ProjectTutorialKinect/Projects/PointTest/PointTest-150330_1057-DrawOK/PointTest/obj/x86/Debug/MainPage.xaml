@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="PointTest.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PointTest"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <TextBlock Text="{Binding posX}" FontSize="100" Grid.Row="0" />
+        <TextBlock Text="{Binding posY}" FontSize="100" Grid.Row="1" />
+        <Canvas x:Name="CursorMove" Grid.Row="2">
+            <Ellipse x:Name="ellipse"  Height="30" Width="30" HorizontalAlignment="Right" Canvas.Left="{Binding posX}" Canvas.Top="{Binding posY}"  Stroke="LightBlue" StrokeThickness="4" Opacity="0.5" />
+           
+        </Canvas>
+
+    </Grid>
+</Page>
+

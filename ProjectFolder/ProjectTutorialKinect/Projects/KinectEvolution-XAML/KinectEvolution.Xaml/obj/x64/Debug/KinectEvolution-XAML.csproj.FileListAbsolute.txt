@@ -1,0 +1,57 @@
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x64\Debug\App.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x64\Debug\Common\KinectEvolutionStyles.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x64\Debug\Common\StandardStyles.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x64\Debug\HelpSettingsFlyout.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x64\Debug\MainPage.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x64\Debug\ThumbnailView.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x64\Debug\Kinect Evolution.xr.xml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x64\Debug\Kinect Evolution.exe
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x64\Debug\Kinect Evolution.pdb
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x64\Debug\resources.pri
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x64\Debug\AppxManifest.xml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x64\Debug\KinectEvolution-XAML.build.appxrecipe
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x64\Debug\KinectEvolution.Xaml.Controls.winmd
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x64\Debug\KinectEvolution.Xaml.Controls.pdb
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x64\Debug\KinectEvolution.Xaml.Controls.pri
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\KinectEvolution-XAML.csprojResolveAssemblyReference.cache
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\App.g.i.cs
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\App.g.cs
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\Common\KinectEvolutionStyles.g.i.cs
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\Common\KinectEvolutionStyles.g.cs
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\Common\StandardStyles.g.i.cs
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\Common\StandardStyles.g.cs
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\HelpSettingsFlyout.g.i.cs
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\HelpSettingsFlyout.g.cs
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\MainPage.g.cs
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\ThumbnailView.g.i.cs
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\ThumbnailView.g.cs
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\App.xaml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\Common\KinectEvolutionStyles.xaml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\Common\StandardStyles.xaml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\HelpSettingsFlyout.xaml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\MainPage.xaml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\ThumbnailView.xaml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\App.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\Common\KinectEvolutionStyles.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\Common\StandardStyles.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\HelpSettingsFlyout.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\MainPage.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\ThumbnailView.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\Kinect Evolution.exe
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\Kinect Evolution.pdb
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\KinectEvolution-XAML.csproj.GenerateResource.Cache
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\priconfig.xml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\layout.resfiles
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\layout.resfiles.intermediate
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\resources.resfiles
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\pri.resfiles
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\qualifiers.txt
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x64\Debug\ProjectArchitectures.txt

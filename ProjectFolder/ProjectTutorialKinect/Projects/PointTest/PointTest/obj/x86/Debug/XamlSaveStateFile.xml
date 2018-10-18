@@ -1,0 +1,15 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\jacquemare\onedrive\etml - fpa 2013-2015\tpi\projects\pointtest\pointtest\obj\x86\debug\intermediatexaml\pointtest.exe" HashGuid="394d9293-911c-2903-0ad8-5c0dbd397045" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.kinect.face\2.0\references\commonconfiguration\neutral\microsoft.kinect.face.winmd" HashGuid="a37c50e9-c725-60ab-ab30-63aadc22fec1" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.kinect.fusion\2.0\references\commonconfiguration\neutral\microsoft.kinect.fusion.winmd" HashGuid="6f12a7c0-ae9d-0fcb-6981-80fe6a70677d" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.kinect.toolkit.input\2.0\references\commonconfiguration\neutral\microsoft.kinect.toolkit.input.winmd" HashGuid="e6525654-5632-5cf5-4387-7da4061d49ea" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.kinect.xaml.controls\2.0\references\commonconfiguration\neutral\microsoft.kinect.xaml.controls.winmd" HashGuid="4a3c2739-33b3-a39a-6361-713b287a923a" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\windowspreview.kinect\2.0\references\commonconfiguration\neutral\windowspreview.data.winmd" HashGuid="bec3b354-5b74-1234-191f-25a435755c0a" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\windowspreview.kinect\2.0\references\commonconfiguration\neutral\windowspreview.kinect.winmd" HashGuid="d7412096-a3c7-9108-a946-0ff0cc614d3f" />
+    <ReferenceAssembly PathName="c:\users\jacquemare\onedrive\etml - fpa 2013-2015\tpi\projects\pointtest\packages\engineioclientdotnet.0.9.17\lib\netcore45\engineioclientdotnet.dll" HashGuid="f57a2326-7051-4dd6-c3cf-6733a6cd0b97" />
+    <ReferenceAssembly PathName="c:\users\jacquemare\onedrive\etml - fpa 2013-2015\tpi\projects\pointtest\packages\newtonsoft.json.6.0.8\lib\netcore45\newtonsoft.json.dll" HashGuid="fd3dfcab-cf69-c796-78a2-2423dadb814b" />
+    <ReferenceAssembly PathName="c:\users\jacquemare\onedrive\etml - fpa 2013-2015\tpi\projects\pointtest\packages\socketioclientdotnet.0.9.10\lib\netcore45\socketioclientdotnet.dll" HashGuid="37e40297-fe6c-50ca-885b-4e342111fc80" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

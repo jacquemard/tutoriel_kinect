@@ -1,0 +1,2 @@
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.vcxproj;x64
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\KinectEvolution-XAML.csproj;x64

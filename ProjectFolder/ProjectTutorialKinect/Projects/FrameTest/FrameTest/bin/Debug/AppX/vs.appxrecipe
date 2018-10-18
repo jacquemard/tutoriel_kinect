@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JACQUEMARDTPIPC</Machine>
+    <WindowsUser>jacquemare</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b0c06387-93dd-4024-af6b-92379bcbb4cc</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\FrameTest\FrameTest\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>37BB1D32C5669AC8EA2BBB357852D5BDF32F12C3BB14D41E6DB04D8E1D549BC3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b0c06387-93dd-4024-af6b-92379bcbb4cc_1.0.0.0_neutral__gk9mv70epad0t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b0c06387-93dd-4024-af6b-92379bcbb4cc_gk9mv70epad0t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b0c06387-93dd-4024-af6b-92379bcbb4cc</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=jacquemare</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\FrameTest\FrameTest\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-08T07:18:07.120</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\FrameTest\FrameTest\bin\Debug\FrameTest.exe">
+      <PackagePath>FrameTest.exe</PackagePath>
+      <Modified>2015-05-08T07:18:06.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\FrameTest\FrameTest\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T20:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\FrameTest\FrameTest\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T20:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\FrameTest\FrameTest\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T20:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\FrameTest\FrameTest\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T20:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\FrameTest\FrameTest\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-08T07:18:06.696</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\FrameTest\FrameTest\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-08T07:18:06.696</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\FrameTest\FrameTest\bin\Debug\FrameTest.xr.xml">
+      <PackagePath>FrameTest.xr.xml</PackagePath>
+      <Modified>2015-05-08T07:18:06.640</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\FrameTest\FrameTest\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-08T07:18:07.004</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

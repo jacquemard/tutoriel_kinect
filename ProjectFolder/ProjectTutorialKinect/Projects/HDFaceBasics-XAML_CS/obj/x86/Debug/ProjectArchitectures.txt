@@ -1,0 +1,2 @@
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\HDFaceBasics-XAML_CS\HDFaceBasics-XAML_CS.csproj;x86
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\HDFaceBasics-XAML_CS\HDFaceVisualizer\HDFaceVisualizer.vcxproj;x86

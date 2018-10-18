@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JACQUEMARDTPIPC</Machine>
+    <WindowsUser>jacquemare</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>155f346a-7a09-40a4-b91f-3d939f133615</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PointTest2-KinectRegion\PointTest2-KinectRegion\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>6A2DF061C5829B8025C27F10C6DBB45BCE973397C65AE6B6FDFF464AB367E62D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>155f346a-7a09-40a4-b91f-3d939f133615_1.0.0.0_neutral__gk9mv70epad0t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>155f346a-7a09-40a4-b91f-3d939f133615_gk9mv70epad0t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>155f346a-7a09-40a4-b91f-3d939f133615</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=jacquemare</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PointTest2-KinectRegion\PointTest2-KinectRegion\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-31T06:49:25.749</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PointTest2-KinectRegion\PointTest2-KinectRegion\bin\Debug\PointTest2-KinectRegion.exe">
+      <PackagePath>PointTest2-KinectRegion.exe</PackagePath>
+      <Modified>2015-03-31T06:49:25.593</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PointTest2-KinectRegion\PointTest2-KinectRegion\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T20:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PointTest2-KinectRegion\PointTest2-KinectRegion\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T20:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PointTest2-KinectRegion\PointTest2-KinectRegion\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T20:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PointTest2-KinectRegion\PointTest2-KinectRegion\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T20:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PointTest2-KinectRegion\PointTest2-KinectRegion\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-31T06:49:25.452</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PointTest2-KinectRegion\PointTest2-KinectRegion\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-03-31T06:49:25.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PointTest2-KinectRegion\PointTest2-KinectRegion\bin\Debug\PointTest2-KinectRegion.xr.xml">
+      <PackagePath>PointTest2-KinectRegion.xr.xml</PackagePath>
+      <Modified>2015-03-31T06:49:25.452</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PointTest2-KinectRegion\PointTest2-KinectRegion\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-31T06:49:25.655</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JACQUEMARDTPIPC</Machine>
+    <WindowsUser>jacquemare</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4d111c00-4343-420e-a4c4-ec8c8352a4a3</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\App1\App1\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>5DBCB0FB1B192495835A2E22188AEB461C231260FA560AD771B1D6AF087945BA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4d111c00-4343-420e-a4c4-ec8c8352a4a3_1.0.0.0_neutral__gk9mv70epad0t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4d111c00-4343-420e-a4c4-ec8c8352a4a3_gk9mv70epad0t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4d111c00-4343-420e-a4c4-ec8c8352a4a3</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=jacquemare</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\App1\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-01T13:50:17.439</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\App1\App1\bin\Debug\App1.exe">
+      <PackagePath>App1.exe</PackagePath>
+      <Modified>2015-04-01T13:50:17.328</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\App1\App1\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T20:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\App1\App1\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T20:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\App1\App1\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T20:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\App1\App1\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T20:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\App1\App1\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-04-01T13:50:17.197</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\App1\App1\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-04-01T13:50:17.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\App1\App1\bin\Debug\App1.xr.xml">
+      <PackagePath>App1.xr.xml</PackagePath>
+      <Modified>2015-04-01T13:50:17.183</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\App1\App1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-01T13:50:17.383</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

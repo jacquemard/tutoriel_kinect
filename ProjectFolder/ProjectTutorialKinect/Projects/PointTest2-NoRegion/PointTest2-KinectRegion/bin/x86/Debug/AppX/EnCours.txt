@@ -1,0 +1,9 @@
+﻿Les deux fonctionnalités BodyFrame et KinectRegion en même temps
+Lorsqu' un utilisateur s'engage, la main apparait mais les images n'arrive plus à l'évent BodyReader_FrameArrived.
+Comme un seul KinectCoreWindow a le focus à la fois et reçoit les évenements, peut-être que celle-ci vont uniquement au kinectcore de la kinectregion.
+
+2 KinectCore ? 
+	- Dans le kinectRegion
+	- Dans la mainFrame
+
+Problème: On utilise le kinectCoreWindow dans la main page, et ça fonctionne... même si on fait KinectCoreWindows.GetForCurrentThread...

@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GestureDetector</name>
+    </assembly>
+    <members>
+        <member name="T:PowerPointKinect.GestureDetector">
+            <summary>
+            Permet de détecter les mouvements d'un corps
+            Les mouvements sont détectés à partir d'une base de données
+            Deux évenements sont disponibles:
+            <list type="bullet">
+                <item>GestureFirstDetected</item>
+                <item>GestureDetected</item>
+            </list>
+            </summary>
+        </member>
+        <member name="M:PowerPointKinect.GestureDetector.#ctor(System.String)">
+            <summary>
+            Constructeur de la classe GestureDetector
+            </summary>
+            <param name="fileName">Le chemin du fichier de base de données (.gbd) dans lequel se trouve les mouvements à détecter</param>
+        </member>
+        <member name="M:PowerPointKinect.GestureDetector.initGesture">
+            <summary>
+            Initialise le système de mouvement
+            </summary>
+        </member>
+        <member name="M:PowerPointKinect.GestureDetector.gestureReader_FrameArrived(System.Object,Microsoft.Kinect.VisualGestureBuilder.VisualGestureBuilderFrameArrivedEventArgs)">
+            <summary>
+            Appelé 30 fois par seconde et gérant les frames de gestures
+            </summary>
+        </member>
+        <member name="M:PowerPointKinect.GestureDetector.Dispose">
+            <summary>
+            Effectue toute les opérations de fermeture
+            </summary>
+        </member>
+        <member name="P:PowerPointKinect.GestureDetector.TrackingID">
+            <summary>
+            ID du corps détecté
+            </summary>
+        </member>
+        <member name="E:PowerPointKinect.GestureDetector.GestureFirstDetected">
+            <summary>
+            Déclenché lorsqu'un geste a été détecté pour la première fois
+            </summary>
+        </member>
+        <member name="E:PowerPointKinect.GestureDetector.GestureDetected">
+            <summary>
+            Déclenché lorsqu'un geste est détecté 
+            </summary>
+        </member>
+        <member name="T:PowerPointKinect.GestureDetector.GestureDetectedEventArgs">
+            <summary>
+            Arguments de l'évenement de détection de mouvement. 
+            </summary>
+        </member>
+        <member name="M:PowerPointKinect.GestureDetector.GestureDetectedEventArgs.#ctor(Microsoft.Kinect.VisualGestureBuilder.Gesture,Microsoft.Kinect.VisualGestureBuilder.DiscreteGestureResult)">
+            <summary>
+            Constructeur de GestureDetectedEventArgs
+            </summary>
+            <param name="gestureDetected">Le mouvement qui a été détecté</param>
+            <param name="gestureResult">Le résultat de cette détection</param>
+        </member>
+        <member name="P:PowerPointKinect.GestureDetector.GestureDetectedEventArgs.Gesture">
+            <summary>
+            Le geste détecté
+            </summary>
+        </member>
+        <member name="P:PowerPointKinect.GestureDetector.GestureDetectedEventArgs.GestureResult">
+            <summary>
+            Le résultat de la détection (indique par exemple quel est la marge d'erreur  
+            </summary>
+        </member>
+    </members>
+</doc>

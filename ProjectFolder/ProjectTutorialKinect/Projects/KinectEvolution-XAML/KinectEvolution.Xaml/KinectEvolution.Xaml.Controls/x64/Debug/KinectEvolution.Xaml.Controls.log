@@ -1,0 +1,92 @@
+﻿La génération a démarré 08.05.2015 09:13:46.
+     1>Projet "C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>FxCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T ps_5_0 /Fo "C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\BlockManPS.cso" /Od /Zi BlockManPS.hlsl 
+         compilation object save succeeded; see C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\BlockManPS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T vs_5_0 /Fo "C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\BlockManVS.cso" /Od /Zi BlockManVS.hlsl 
+         compilation object save succeeded; see C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\BlockManVS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T gs_5_0 /Fo "C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\DepthMeshGS.cso" /Od /Zi DepthMeshGS.hlsl 
+         compilation object save succeeded; see C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\DepthMeshGS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T ps_5_0 /Fo "C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\DepthMeshPS.cso" /Od /Zi DepthMeshPS.hlsl 
+         compilation object save succeeded; see C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\DepthMeshPS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T vs_5_0 /Fo "C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\DepthMeshVS.cso" /Od /Zi DepthMeshVS.hlsl 
+         compilation object save succeeded; see C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\DepthMeshVS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T ps_5_0 /Fo "C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\DepthPointPS.cso" /Od /Zi DepthPointPS.hlsl 
+         compilation object save succeeded; see C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\DepthPointPS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T vs_5_0 /Fo "C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\DepthPointVS.cso" /Od /Zi DepthPointVS.hlsl 
+         compilation object save succeeded; see C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\DepthPointVS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T ps_5_0 /Fo "C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\PrimitivePS.cso" /Od /Zi PrimitivePS.hlsl 
+         compilation object save succeeded; see C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\PrimitivePS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T vs_5_0 /Fo "C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\PrimitiveVS.cso" /Od /Zi PrimitiveVS.hlsl 
+         compilation object save succeeded; see C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\PrimitiveVS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T gs_5_0 /Fo "C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\RampEffectGS.cso" /Od /Zi RampEffectGS.hlsl 
+         compilation object save succeeded; see C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\RampEffectGS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T ps_5_0 /Fo "C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\RampEffectPS.cso" /Od /Zi RampEffectPS.hlsl 
+         compilation object save succeeded; see C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\RampEffectPS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T vs_5_0 /Fo "C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\RampEffectVS.cso" /Od /Zi RampEffectVS.hlsl 
+         compilation object save succeeded; see C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\RampEffectVS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T gs_5_0 /Fo "C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\RenderTextureGS.cso" /Od /Zi RenderTextureGS.hlsl 
+         compilation object save succeeded; see C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\RenderTextureGS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T ps_5_0 /Fo "C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\RenderTexturePS.cso" /Od /Zi RenderTexturePS.hlsl 
+         compilation object save succeeded; see C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\RenderTexturePS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T vs_5_0 /Fo "C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\RenderTextureVS.cso" /Od /Zi RenderTextureVS.hlsl 
+         compilation object save succeeded; see C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\RenderTextureVS.cso
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\KinectEvolution.Xaml.Controls\\" /I"Generated Files\\" /Ix64\Debug\ /Zi /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /Od /D _WINRT_DLL /D _WINDLL /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"pch.h" /Fp"x64\Debug\pch.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /FU"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\References\CommonConfiguration\neutral\platform.winmd" /FU"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\WindowsPreview.Kinect\2.0\References\CommonConfiguration\neutral\WindowsPreview.Data.winmd" /FU"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\WindowsPreview.Kinect\2.0\References\CommonConfiguration\neutral\WindowsPreview.Kinect.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /analyze- /errorReport:prompt /bigobj pch.cpp
+         pch.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\KinectEvolution.Xaml.Controls\\" /I"Generated Files\\" /Ix64\Debug\ /Zi /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /Od /D _WINRT_DLL /D _WINDLL /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"pch.h" /Fp"x64\Debug\pch.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /FU"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\References\CommonConfiguration\neutral\platform.winmd" /FU"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\WindowsPreview.Kinect\2.0\References\CommonConfiguration\neutral\WindowsPreview.Data.winmd" /FU"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\WindowsPreview.Kinect\2.0\References\CommonConfiguration\neutral\WindowsPreview.Kinect.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /analyze- /errorReport:prompt /bigobj AudioPanel.cpp Effect.cpp Mesh.cpp Panel.cpp BlockManEffect.cpp BlockManMesh.cpp BlockManPanel.cpp ColorPanel.cpp DDSTextureLoader.cpp DepthMapPanel.cpp DepthMesh.cpp DepthMeshEffect.cpp DepthPointEffect.cpp DirectXPanel.cpp InfraredPanel.cpp InfraredRenderer.cpp PrimitiveEffect.cpp PrimitiveMesh.cpp RampEffect.cpp RenderTextureEffect.cpp SkeletonPanel.cpp Texture.cpp
+         AudioPanel.cpp
+         Effect.cpp
+         Mesh.cpp
+         Panel.cpp
+         BlockManEffect.cpp
+         BlockManMesh.cpp
+         BlockManPanel.cpp
+         ColorPanel.cpp
+         DDSTextureLoader.cpp
+         DepthMapPanel.cpp
+         DepthMesh.cpp
+         DepthMeshEffect.cpp
+         DepthPointEffect.cpp
+         DirectXPanel.cpp
+         InfraredPanel.cpp
+         InfraredRenderer.cpp
+         PrimitiveEffect.cpp
+         PrimitiveMesh.cpp
+         RampEffect.cpp
+         RenderTextureEffect.cpp
+         SkeletonPanel.cpp
+         Texture.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.dll" /INCREMENTAL /NOLOGO runtimeobject.lib kernel32.lib /MANIFEST:NO /DEBUG /PDB:"C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /APPCONTAINER /WINMD /WINMDFILE:"C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:X64 /DLL x64\Debug\AudioPanel.obj
+         x64\Debug\Effect.obj
+         x64\Debug\Mesh.obj
+         x64\Debug\Panel.obj
+         x64\Debug\BlockManEffect.obj
+         x64\Debug\BlockManMesh.obj
+         x64\Debug\BlockManPanel.obj
+         x64\Debug\ColorPanel.obj
+         x64\Debug\DDSTextureLoader.obj
+         x64\Debug\DepthMapPanel.obj
+         x64\Debug\DepthMesh.obj
+         x64\Debug\DepthMeshEffect.obj
+         x64\Debug\DepthPointEffect.obj
+         x64\Debug\DirectXPanel.obj
+         x64\Debug\InfraredPanel.obj
+         x64\Debug\InfraredRenderer.obj
+         x64\Debug\pch.obj
+         x64\Debug\PrimitiveEffect.obj
+         x64\Debug\PrimitiveMesh.obj
+         x64\Debug\RampEffect.obj
+         x64\Debug\RenderTextureEffect.obj
+         x64\Debug\SkeletonPanel.obj
+         x64\Debug\Texture.obj
+            Création de la bibliothèque C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.lib et de l'objet C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.exp
+         KinectEvolution.Xaml.Controls.vcxproj -> C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.dll
+       _GenerateProjectPriFileCore:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x64\MakePri.exe New -ProjectRoot "C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\KinectEvolution.Xaml.Controls\\" -ConfigXml x64\Debug\priconfig.xml -OutputFile "C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\x64\Debug\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.pri" -IndexName KinectEvolution.Xaml.Controls -Verbose -Overwrite  
+     1>Génération du projet "C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\KinectEvolution-XAML\KinectEvolution.Xaml\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:09.91

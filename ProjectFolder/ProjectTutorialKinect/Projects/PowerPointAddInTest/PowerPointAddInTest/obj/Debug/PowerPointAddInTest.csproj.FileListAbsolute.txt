@@ -1,0 +1,42 @@
+C:\Users\jacquemare\documents\visual studio 2013\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\PowerPointAddInTest.dll
+C:\Users\jacquemare\documents\visual studio 2013\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\PowerPointAddInTest.pdb
+C:\Users\jacquemare\documents\visual studio 2013\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\af\PowerPointAddInTest.resources.dll
+C:\Users\jacquemare\documents\visual studio 2013\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\PowerPointAddInTest.dll.manifest
+C:\Users\jacquemare\documents\visual studio 2013\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\PowerPointAddInTest.vsto
+C:\Users\jacquemare\documents\visual studio 2013\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\Microsoft.Kinect.dll
+C:\Users\jacquemare\documents\visual studio 2013\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\jacquemare\documents\visual studio 2013\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\jacquemare\documents\visual studio 2013\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\jacquemare\documents\visual studio 2013\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\jacquemare\documents\visual studio 2013\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\Microsoft.Kinect.xml
+C:\Users\jacquemare\documents\visual studio 2013\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\jacquemare\documents\visual studio 2013\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\jacquemare\documents\visual studio 2013\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\jacquemare\documents\visual studio 2013\Projects\PowerPointAddInTest\PowerPointAddInTest\obj\Debug\PowerPointAddInTest.Properties.Resources.resources
+C:\Users\jacquemare\documents\visual studio 2013\Projects\PowerPointAddInTest\PowerPointAddInTest\obj\Debug\PowerPointAddInTest.Ribbon1.resources
+C:\Users\jacquemare\documents\visual studio 2013\Projects\PowerPointAddInTest\PowerPointAddInTest\obj\Debug\PowerPointAddInTest.Ribbon1.af.resources
+C:\Users\jacquemare\documents\visual studio 2013\Projects\PowerPointAddInTest\PowerPointAddInTest\obj\Debug\PowerPointAddInTest.csproj.GenerateResource.Cache
+C:\Users\jacquemare\documents\visual studio 2013\Projects\PowerPointAddInTest\PowerPointAddInTest\obj\Debug\af\PowerPointAddInTest.resources.dll
+C:\Users\jacquemare\documents\visual studio 2013\Projects\PowerPointAddInTest\PowerPointAddInTest\obj\Debug\PowerPointAddInTest.dll
+C:\Users\jacquemare\documents\visual studio 2013\Projects\PowerPointAddInTest\PowerPointAddInTest\obj\Debug\PowerPointAddInTest.pdb
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\PowerPointAddInTest.dll
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\PowerPointAddInTest.pdb
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\af\PowerPointAddInTest.resources.dll
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\PowerPointAddInTest.dll.manifest
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\PowerPointAddInTest.vsto
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\Microsoft.Kinect.dll
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\Microsoft.Kinect.xml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PowerPointAddInTest\PowerPointAddInTest\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PowerPointAddInTest\PowerPointAddInTest\obj\Debug\PowerPointAddInTest.Properties.Resources.resources
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PowerPointAddInTest\PowerPointAddInTest\obj\Debug\PowerPointAddInTest.Ribbon1.resources
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PowerPointAddInTest\PowerPointAddInTest\obj\Debug\PowerPointAddInTest.Ribbon1.af.resources
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PowerPointAddInTest\PowerPointAddInTest\obj\Debug\PowerPointAddInTest.csproj.GenerateResource.Cache
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PowerPointAddInTest\PowerPointAddInTest\obj\Debug\af\PowerPointAddInTest.resources.dll
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PowerPointAddInTest\PowerPointAddInTest\obj\Debug\PowerPointAddInTest.dll
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\Projects\PowerPointAddInTest\PowerPointAddInTest\obj\Debug\PowerPointAddInTest.pdb

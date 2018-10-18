@@ -1,0 +1,82 @@
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\bin\x64\Debug\App.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\bin\x64\Debug\MainPage.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\bin\x64\Debug\Microsoft.Kinect.Xaml.Controls\Themes\Generic.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\bin\x64\Debug\Microsoft.Kinect.Xaml.Controls\SpriteSheet.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\bin\x64\Debug\Kinect Draw.xr.xml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\bin\x64\Debug\Kinect Draw.exe
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\bin\x64\Debug\Kinect Draw.pdb
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\bin\x64\Debug\resources.pri
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\bin\x64\Debug\AppxManifest.xml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\bin\x64\Debug\Kinect Draw.build.appxrecipe
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\bin\x64\Debug\Microsoft.Kinect.Toolkit.Input.winmd
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\bin\x64\Debug\Microsoft.Kinect.Toolkit.Input.xml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\bin\x64\Debug\Microsoft.Kinect.Xaml.Controls.winmd
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\bin\x64\Debug\Microsoft.Kinect.Xaml.Controls.xml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\App.g.i.cs
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\App.g.cs
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\MainPage.g.cs
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\App.xaml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\MainPage.xaml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\App.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\MainPage.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\Microsoft.Kinect.Xaml.Controls\Themes\Generic.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\Microsoft.Kinect.Xaml.Controls\SpriteSheet.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\Kinect Draw.exe
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\Kinect Draw.pdb
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\Kinect Draw.csproj.GenerateResource.Cache
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\priconfig.xml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\layout.resfiles
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\layout.resfiles.intermediate
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\resources.resfiles
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\pri.resfiles
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\qualifiers.txt
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\PointTest\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\bin\x64\Debug\App.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\bin\x64\Debug\MainPage.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\bin\x64\Debug\Microsoft.Kinect.Xaml.Controls\Themes\Generic.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\bin\x64\Debug\Microsoft.Kinect.Xaml.Controls\SpriteSheet.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\bin\x64\Debug\Kinect Draw.xr.xml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\bin\x64\Debug\Kinect Draw.exe
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\bin\x64\Debug\Kinect Draw.pdb
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\bin\x64\Debug\resources.pri
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\bin\x64\Debug\AppxManifest.xml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\bin\x64\Debug\Kinect Draw.build.appxrecipe
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\bin\x64\Debug\Microsoft.Kinect.Toolkit.Input.winmd
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\bin\x64\Debug\Microsoft.Kinect.Toolkit.Input.xml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\bin\x64\Debug\Microsoft.Kinect.Xaml.Controls.winmd
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\bin\x64\Debug\Microsoft.Kinect.Xaml.Controls.xml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\App.g.i.cs
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\App.g.cs
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\MainPage.g.cs
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\App.xaml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\MainPage.xaml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\App.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\MainPage.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\Microsoft.Kinect.Xaml.Controls\Themes\Generic.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\Microsoft.Kinect.Xaml.Controls\SpriteSheet.xbf
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\Kinect Draw.exe
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\Kinect Draw.pdb
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\Kinect Draw.csproj.GenerateResource.Cache
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\priconfig.xml
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\layout.resfiles
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\layout.resfiles.intermediate
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\resources.resfiles
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\pri.resfiles
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\qualifiers.txt
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\jacquemare\OneDrive\ETML - FPA 2013-2015\TPI\ProjectsForTutorial\Kinect Draw\obj\x64\Debug\ProjectArchitectures.txt
